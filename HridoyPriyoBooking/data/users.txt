@@ -1,0 +1,4 @@
+1|admin|admin123|ADMIN
+2|rahim|rahim123|USER
+3|Wadud|Wadud123|USER
+4|Hridoy|Hridoy123|USER

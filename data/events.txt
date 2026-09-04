@@ -1,0 +1,5 @@
+1|Movie|Interstellar|Sci-Fi|Blockbuster Cinemas Dhanmondi|15-12-2024|350.0|100|100
+2|Concert|Coke Studio Bangla Live|James|Army Stadium Dhaka|20-12-2024|1200.0|500|500
+3|Transport|Dhaka to Cox's Bazar|Bus (AC)|Saint Martin Paribahan|18-12-2024|1800.0|40|40
+4|Event|Dhaka Tech Summit 2024|Basis|Bangabandhu International Conference Center|25-12-2024|500.0|300|300
+5|Movie|KGF 2|Action|Sony Square|24/12/2026|300.0|150|150
